@@ -6,8 +6,8 @@
 ### 🔥 About Me
 
 - 💻 I'm currently mastering **Frontend** and learning **Backend** development.
-- 🛠️ Working on an **AI-powered dashboard** & **AR-integrated eCommerce platform**.
-- 🎯 Recently contributed to GSSoC 2025: [Dynamic Clear Button Feature](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/153)
+- 🛠️ Workied on **AI-powered dashboard** & **AR-integrated eCommerce platform**.
+- 🎯 Currently Contributing in GSSoC 2025: [Dynamic Clear Button Feature](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/153)
 - 📚 I’m always looking to improve my skills and build meaningful projects.
 
 ---
