@@ -6,8 +6,8 @@
 ### 🔥 About Me
 
 - 💻 I'm currently mastering **Frontend** and learning **Backend** development.
-- 🛠️ Workied on **AI-powered dashboard** & **AR-integrated eCommerce platform**.
-- 🎯 Currently Contributing in GSSoC 2025: [Dynamic Clear Button Feature](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/153)
+- 🛠️ Worked on **AI-powered dashboard** & **AR-integrated eCommerce platform**.
+- 🎯 Currently Contributing in GSSoC 2025.
 - 📚 I’m always looking to improve my skills and build meaningful projects.
 
 ---
@@ -31,12 +31,13 @@
 
 ### 🚀 Highlighted Contributions
 
+- ✅ [Revamped Homepage & Contact Page UI – Travel Website (GSSoC '25)](https://github.com/pavitraag/Project-Vault/pull/182)
 - ✅ [Merged PR: Added Dynamic Clear Button – Travel Website](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/153)
 - 🌐 GSSoC 2025 Contributor – Open-source enthusiast
 
 ---
 
-### 🧠 Projects(Wallmart Hackathon)
+### 🧠 Projects (Walmart Hackathon)
 
 - 🛍️ **AR-Enabled eCommerce Platform** – React + Express + MongoDB + Gemini AI + 3D View
 - 📊 **AI-Powered Retail Dashboard** – Real-time insights, voice summary, loyalty integration
@@ -56,4 +57,3 @@
 </p>
 
 ---
-
