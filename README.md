@@ -31,7 +31,7 @@
 
 ### 🚀 Highlighted Contributions
 
-- ✅ [Revamped Homepage & Contact Page UI – Travel Website (GSSoC '25)](https://github.com/pavitraag/Project-Vault/pull/182)
+- ✅ [Revamped Homepage & Contact Page UI – Project-Vault](https://github.com/pavitraag/Project-Vault/pull/182)
 - ✅ [Merged PR: Added Dynamic Clear Button – Travel Website](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/153)
 - 🌐 GSSoC 2025 Contributor – Open-source enthusiast
 
